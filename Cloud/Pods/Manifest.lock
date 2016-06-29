@@ -1,0 +1,115 @@
+PODS:
+  - AEXML (2.1.0)
+  - Alamofire (3.3.1)
+  - AlamofireImage (2.4.0):
+    - Alamofire (~> 3.3)
+  - Async (0.2.0)
+  - AsyncDisplayKit (1.9.7.2):
+    - AsyncDisplayKit/PINRemoteImage (= 1.9.7.2)
+  - AsyncDisplayKit/ASDealloc2MainObject (1.9.7.2)
+  - AsyncDisplayKit/PINRemoteImage (1.9.7.2):
+    - AsyncDisplayKit/ASDealloc2MainObject
+    - PINRemoteImage/iOS (>= 2.1.2)
+  - BrightFutures (3.3.0):
+    - Result (~> 1.0)
+  - BWWalkthrough (1.1.0)
+  - Cartography (0.6.0)
+  - Dollar (5.0.0)
+  - HanekeSwift (0.10.1)
+  - KYCircularProgress (0.5.1)
+  - LocationManager (1.0.1):
+    - PromiseKit (~> 3.0)
+  - LTMorphingLabel (0.2.0)
+  - OAuthSwift (0.5.2)
+  - OMGHTTPURLRQ (3.1.1):
+    - OMGHTTPURLRQ/RQ (= 3.1.1)
+  - OMGHTTPURLRQ/FormURLEncode (3.1.1)
+  - OMGHTTPURLRQ/RQ (3.1.1):
+    - OMGHTTPURLRQ/FormURLEncode
+    - OMGHTTPURLRQ/UserAgent
+  - OMGHTTPURLRQ/UserAgent (3.1.1)
+  - PathKit (0.6.0)
+  - PINCache (2.2.2)
+  - PINRemoteImage/Core (2.1.2):
+    - PINCache (>= 2.1)
+  - PINRemoteImage/iOS (2.1.2):
+    - PINRemoteImage/Core
+  - PromiseKit (3.1.1):
+    - PromiseKit/Foundation (= 3.1.1)
+    - PromiseKit/QuartzCore (= 3.1.1)
+    - PromiseKit/UIKit (= 3.1.1)
+  - PromiseKit/CorePromise (3.1.1)
+  - PromiseKit/Foundation (3.1.1):
+    - OMGHTTPURLRQ (~> 3.1.0)
+    - PromiseKit/CorePromise
+  - PromiseKit/QuartzCore (3.1.1):
+    - PromiseKit/CorePromise
+  - PromiseKit/UIKit (3.1.1):
+    - PromiseKit/CorePromise
+  - Realm (0.98.6):
+    - Realm/Headers (= 0.98.6)
+  - Realm/Headers (0.98.6)
+  - Result (1.0.2)
+  - Siren (0.7.0)
+  - SQLite.swift (0.10.1)
+  - Surge (0.2.1)
+  - SwiftyJSON (2.3.2)
+  - Toucan (0.5.0)
+  - XCGLogger (3.3)
+
+DEPENDENCIES:
+  - AEXML
+  - Alamofire
+  - AlamofireImage
+  - Async
+  - AsyncDisplayKit
+  - BrightFutures
+  - BWWalkthrough
+  - Cartography
+  - Dollar
+  - HanekeSwift
+  - KYCircularProgress
+  - LocationManager
+  - LTMorphingLabel
+  - OAuthSwift
+  - PathKit
+  - Realm
+  - Siren
+  - SQLite.swift
+  - Surge
+  - SwiftyJSON
+  - Toucan
+  - XCGLogger
+
+SPEC CHECKSUMS:
+  AEXML: 0e2f657fdc67e17905682a06d55583a863d80803
+  Alamofire: 369bc67b6f5ac33ded3648d7bd21c5bfb91c2ecc
+  AlamofireImage: 87408b652e0f5ae5fe364035f15aea8b9b24c77e
+  Async: d80205f1a1b4eea24de8ddc62cf5197ff3025330
+  AsyncDisplayKit: 1701c47761a3e274b82cc0c77e6294cfa69612f6
+  BrightFutures: f4b491b3107487a0469973a74f81f334eb0ed60a
+  BWWalkthrough: 0c27ad2773a25c8f4fb9004bc7d6685deb35fecc
+  Cartography: 70af183a248547694a8cfaa6b989cb7e04589985
+  Dollar: 310893dd6b3799b9b155e3deb61a0492987e4d03
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  KYCircularProgress: 69a6d6852d96ca2be2830cc659b85aab3bb1cee6
+  LocationManager: 4ce4ab2de5b5bbc74e1647ffb8856f36fe7e0fb4
+  LTMorphingLabel: 490aa8e079f9247c7f3130f7d4b1be1d66677377
+  OAuthSwift: 1ef042d4362e755e24a78f158d817245641a5d24
+  OMGHTTPURLRQ: 633f98ee745aeda02345935a52eec1784cddb589
+  PathKit: b224b6d2c4e75b87f08f45e1c0c610a3195c94e5
+  PINCache: 078426d356ab95ef875e9e62e5c35a2ea3333c28
+  PINRemoteImage: 2ce3f1fcc52f0360a3821f91f1a1bc653c5d2338
+  PromiseKit: 4e8127c22a9b29d1b44958ab2ec762ea6115cbfb
+  Realm: 44803f35418c5d89b27825a564247fcd190de37e
+  Result: dd3dd71af3fa2e262f1a999e14fba2c25ec14f16
+  Siren: b302660e1bf19537705a15aa3460fb328a3e8eb9
+  SQLite.swift: 6a6e4b034efc317ce4e203b6af2d3024fee2b570
+  Surge: 7f67f9dbd0e837fe2d94ad5326fe14e9fdbea690
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+  Toucan: 0519c341148252ae114c5a657d2a85bb9ada9e40
+  XCGLogger: d6e196e78940ff6daab17d6917107876f973fa31
+
+PODFILE CHECKSUM: 8a6dbc7733605dc70a4d9f6878eae94ac384de70
+
+COCOAPODS: 1.0.0.beta.6

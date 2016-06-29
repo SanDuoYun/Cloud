@@ -1,0 +1,27 @@
+platform:ios,'9.0'
+use_frameworks!
+
+target 'Cloud' do
+pod 'Alamofire'
+pod 'AlamofireImage'
+pod 'SwiftyJSON'
+pod 'Dollar'
+pod 'OAuthSwift'
+pod 'PathKit'
+pod 'XCGLogger'
+pod 'Surge'
+pod 'Async'
+pod 'LocationManager'
+pod 'Siren'
+pod 'BrightFutures'
+pod 'SQLite.swift'
+pod 'Realm'
+pod 'Toucan'
+pod 'HanekeSwift'
+pod 'BWWalkthrough'
+pod 'KYCircularProgress'
+pod 'AsyncDisplayKit'
+pod 'Cartography'
+pod 'LTMorphingLabel'
+pod 'AEXML'
+end
